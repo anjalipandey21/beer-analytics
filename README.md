@@ -39,7 +39,7 @@ This project builds a personalized, content-based recommender system for craft b
 ---
 
 ## 📂 Project Structure
-- `Assig Main notebook with data collection, analysis, modeling, and visualizations.
+-  Main notebook with data collection, analysis, modeling, and visualizations.
 - `README.md`: Project summary and documentation.
 
 ---
