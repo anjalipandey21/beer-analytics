@@ -39,7 +39,7 @@ This project builds a personalized, content-based recommender system for craft b
 ---
 
 ## 📂 Project Structure
-- `Assignment_2_Unstructured.ipynb`: Main notebook with data collection, analysis, modeling, and visualizations.
+- `Assignment_2_`: Main notebook with data collection, analysis, modeling, and visualizations.
 - `README.md`: Project summary and documentation.
 
 ---
